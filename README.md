@@ -1,8 +1,4 @@
 # 👋 Hi there! I'm Deducible
-
-🎮 **Software Developer in training** passionate about video games, programming, and exploring new technologies.  
-💡 I enjoy learning by building and I’m currently improving my skills in full-stack web development.
-
 ---
 
 ## 🧠 About Me
